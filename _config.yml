@@ -9,8 +9,8 @@ minima:
   skin: dark
 
   nav_pages:
-    - swaps.html
-    - wanted.html
+    - swaps.md
+    
 
   social_links:
     - title: Numista
@@ -21,3 +21,4 @@ minima:
       url: "https://www.ebay.com.au/usr/monty124au"
 
   hide_site_feed_link: true
+
