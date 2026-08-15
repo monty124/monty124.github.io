@@ -19,5 +19,5 @@ layout: default
 [eBay Listing](https://www.ebay.com.au/usr/monty124au).
 
 <hr>
-Last built on: {{ site.time | date: "%B %d, %Y" }}
+Last built on: {{ site.time | date: "%Y-%m-%d %H:%M" }}
 <hr>
