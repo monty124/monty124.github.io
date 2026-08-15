@@ -7,3 +7,17 @@ plugins:
 
 minima:
   skin: dark
+
+ nav_pages:
+    - swaps.html
+    - wanted.html
+
+social_links:
+   - title: Numista
+     icon: coins
+     url: "https://en.numista.com/echanges/profil.php?id=557968"
+   - title: ebay listings
+      icon: ebay
+      url: "https://www.ebay.com.au/usr/monty124au"
+
+ hide_site_feed_link: true
