@@ -8,7 +8,7 @@ plugins:
 minima:
   skin: dark
 
- nav_pages:
+  nav_pages:
     - swaps.html
     - wanted.html
 
