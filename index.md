@@ -12,7 +12,11 @@ layout: default
 
 [List of wanted Sets](./sets_wanted.html).
 
+<hr>
 
+[Numista](https://en.numista.com/echanges/profil.php?id=557968).
+
+[eBay Listing](https://www.ebay.com.au/usr/monty124au).
 
 <hr>
 Last built on: {{ site.time | date: "%B %d, %Y" }}
