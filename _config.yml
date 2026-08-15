@@ -1,3 +1,9 @@
-theme: minima
+remote_theme: jekyll/minima@d4d779a
+#
+# Minima requires the following plugins:
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
 minima:
   skin: dark
