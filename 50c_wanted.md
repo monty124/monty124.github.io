@@ -15,7 +15,6 @@
 <tr><td><a href="https://en.numista.com/73357" target="_blank">73357</a></td><td>2000</td><td>proof</td><td>50 Cents - Elizabeth II 4th Portrait - Millennium- Coloured Proof</td><td>or set from list</td></tr>
 <tr><td><a href="https://en.numista.com/12593" target="_blank">12593</a></td><td>2000</td><td>circulated</td><td>50 Cents - Elizabeth II 4th Portrait - Millennium</td><td>incused</td></tr>
 <tr><td><a href="https://en.numista.com/12594" target="_blank">12594</a></td><td>2001</td><td>proof</td><td>50 Cents - Elizabeth II 4th Portrait - Federation - Norfolk Island</td><td></td></tr>
-<tr><td><a href="https://en.numista.com/12597" target="_blank">12597</a></td><td>2001</td><td>proof</td><td>50 Cents - Elizabeth II 4th Portrait - Federation - Australian Capital Territory</td><td></td></tr>
 <tr><td><a href="https://en.numista.com/12598" target="_blank">12598</a></td><td>2001</td><td>proof</td><td>50 Cents - Elizabeth II 4th Portrait - Federation - Queensland</td><td></td></tr>
 <tr><td><a href="https://en.numista.com/12600" target="_blank">12600</a></td><td>2001</td><td>proof</td><td>50 Cents - Elizabeth II 4th Portrait - Federation - Northern Territory</td><td></td></tr>
 <tr><td><a href="https://en.numista.com/12601" target="_blank">12601</a></td><td>2001</td><td>proof</td><td>50 Cents - Elizabeth II 4th Portrait - Federation - South Australia</td><td></td></tr>
