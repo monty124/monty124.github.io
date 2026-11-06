@@ -14,10 +14,7 @@
 <tr><td><a href="https://en.numista.com/12601" target="_blank">12601</a></td><td>2001</td><td>proof</td><td>50 Cents - Elizabeth II 4th Portrait - Federation - South Australia</td><td></td><td>55.50</td><td>40.00</td><td>71.00</td></tr>
 <tr><td><a href="https://en.numista.com/12603" target="_blank">12603</a></td><td>2001</td><td>proof</td><td>50 Cents - Elizabeth II 4th Portrait - Federation - Tasmania</td><td></td><td>5.89</td><td>1.15</td><td>17.57</td></tr>
 <tr><td><a href="https://en.numista.com/9348" target="_blank">9348</a></td><td>2005</td><td>proof</td><td>50 Cents - Elizabeth II 4th Portrait - Remembrance - End of World War II</td><td>or set from list</td><td>107.98</td><td>1.89</td><td>1050.70</td></tr>
-<tr><td><a href="https://en.numista.com/73359" target="_blank">73359</a></td><td>2006</td><td>proof</td><td>50 Cents - Elizabeth II 4th portrait - Round type</td><td>or set from list</td><td></td><td></td><td></td></tr>
 <tr><td><a href="https://en.numista.com/168436" target="_blank">168436</a></td><td>2020</td><td>proof</td><td>50 Cents - Elizabeth II 6th Portrait</td><td>or set from list</td><td>47.74</td><td>47.50</td><td>47.99</td></tr>
-<tr><td><a href="https://en.numista.com/168436" target="_blank">168436</a></td><td>2021</td><td>proof</td><td>50 Cents - Elizabeth II 6th Portrait</td><td>or set from list</td><td>47.74</td><td>47.50</td><td>47.99</td></tr>
-<tr><td><a href="https://en.numista.com/467081" target="_blank">467081</a></td><td>2025</td><td>proof</td><td>50 Cents - Charles III 1st Portrait - Australian Honours and Awards System</td><td>or set from list</td><td></td><td></td><td></td></tr>
 <tr><td><a href="https://en.numista.com/416678" target="_blank">416678</a></td><td>2026</td><td>circulated</td><td>50 Cents - Charles III 1st Portrait</td><td>or mint</td><td>10.00</td><td>1.60</td><td>46.00</td></tr>
 </table>
 
